@@ -16,6 +16,6 @@
 
 <h1> Source code for the paper skin lesion segmentation</h1>
 <h3>the pre-trained model on ISBI 2016 dataset is aviable <a href="https://files.mycloud.com/home.php?brand=webfiles&seuuid=659ba96a1e3275cbfa20f19520a25e87&name=pre-trained_model">here</a> </h3> 
-
+bb
 </body>
 </html>
